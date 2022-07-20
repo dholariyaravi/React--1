@@ -1,0 +1,77 @@
+.ravi{
+    background-color: rgb(71, 184, 176);
+    color: aliceblue  ;
+    width: 150px;
+    height: 40px;
+    margin:6px;
+    border-radius: 25px;
+      
+}
+.second{
+    background-color: rgb(91, 142, 142);
+    color: beige;
+    width: 150px;
+    height: 40px;
+    margin: 8px;
+    border-radius: 25px;
+}
+.second:hover{
+    background-color: rgb(92, 162, 129);
+    box-shadow: 3px 5px 8px 5px rgb(176, 107, 58);
+    color: antiquewhite;  
+}
+.ravi:hover{
+    background-color: black;
+    box-shadow: 3px 5px 8px 5px rgb(67, 49, 115);
+    color: antiquewhite;  
+}
+.ravi2:hover{
+   
+    background-color: rgb(162, 178, 198);
+    box-shadow: 3px 5px 8px 5px rgb(67, 49, 115);
+    color: antiquewhite;  
+}
+.ravi2{
+    background-color: blue;
+    color: azure;
+   width: 150px;
+   height: 40px;
+   margin: 7px;
+   border-radius: 20px;
+   
+}
+.ravi3{
+    background-color: blueviolet;
+    color: aliceblue;
+    width: 150px;
+    height: 40px;
+    border-radius: 24px;
+    margin: 7px;
+    
+}
+.ravi3:hover{
+   
+    background-color: rgb(77, 93, 36);
+    box-shadow: 3px 5px 8px 5px rgb(115, 49, 60);
+    color: antiquewhite;  
+}
+   /* ============================= */
+.rr1{
+background-color: rgb(211, 225, 222);
+   color: rgb(121, 123, 147) ;
+   font-size: 20px;
+}
+
+.ravi5{
+    background-color: rgb(98, 109, 109);
+    color: white;
+    width: 150px;
+    height: auto;
+    margin: 5px;
+}
+.ravi5:hover{
+    background-color: rgb(160, 95, 118);
+}
+
+
+

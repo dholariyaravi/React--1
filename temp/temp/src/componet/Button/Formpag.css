@@ -1,0 +1,39 @@
+  .lab1{
+   color: black;
+     font-size: 22px;
+     margin-right: 10px;
+   }
+ 
+  .lab2{ 
+   border: none;
+     height: 25px;
+     border-radius: 5px;
+     margin: 10px;  
+     background-color: aquamarine;  
+   }
+
+   .header{
+  font-family: sans-serif;
+   }
+   
+    .data11{
+      background-color: azure; 
+    }
+     
+   .btnn{
+    border: none;
+    padding: 0.3rem 1rem;
+    text-align: center;
+    font-size: 23px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    outline: none;
+    margin: 8px;
+     }
+     .btnn:hover{
+      background-color: brown;
+      color: white;
+     }
+ 
+
